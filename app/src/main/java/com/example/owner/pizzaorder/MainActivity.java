@@ -60,7 +60,6 @@ public class MainActivity extends AppCompatActivity {
 
         if(smallRB.isChecked())
         {
-            mediumRB.toggle();
             total += 7.00;
         }
 
